@@ -39,4 +39,4 @@ st.sidebar.info(
 
 df = pd.read_csv('pts.csv')
 
-st.map(df)
+st.map(df, latitude="lat", longitude="lon",color="cor")
