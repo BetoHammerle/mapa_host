@@ -21,7 +21,7 @@ st.sidebar.info(
 
 st.sidebar.title("Registros de Campo")
 
-file = open ('D:\streamlit\README.md',"r",-1)
+file = open ('D:\streamlit\cac.txt',"r",-1)
       
 content = file.read()
 
