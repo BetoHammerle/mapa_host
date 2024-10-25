@@ -25,8 +25,8 @@ st.sidebar.title("Registros de Campo")
       
 #content = file.read()
 
-st.sidebar.info(
-content)
+#st.sidebar.info(
+#content)
 
 
 st.sidebar.title("Contato")
