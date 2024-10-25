@@ -11,7 +11,7 @@ st.sidebar.image('adda-principal-azul.svg',None,110)
 
 st.sidebar.title("Projeto Altos Ventos - RN")
 
-st.sidebar.image('inomeado.svg',None,110)
+st.sidebar.image('legenda.svg',None,110)
 
 st.sidebar.info(
    
