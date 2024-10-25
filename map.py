@@ -37,6 +37,6 @@ st.sidebar.info(
 )
 
 
-df = pd.read_excel('pts.xlsx')
+df = pd.read_csv('pts.csv')
 
 st.map(df)
