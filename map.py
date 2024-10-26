@@ -17,8 +17,11 @@ st.sidebar.info(
     """
     Equipe em Campo
     - Roberto (ADDA)
-    (11)93472-8279
+     11 93472-8279
     - Julio (ADDA)
+     11 99750-0083
+     - Caio (ADDA)
+     19 98182-4262
     """
 )
 
