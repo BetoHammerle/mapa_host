@@ -3,6 +3,4 @@
 - Deslocamento das equipes ADDA Consultoria e SR Energia para a área de estudo. 
 - Localização e avaliação em campo dos potenciais acessos (estradas vicinais).
 - Planejamento do trabalho de abertura e adequação dos acessos.
-
-
--Locação das sondagens fundamentada nos acessos viáveis.
+- Locação das sondagens fundamentada nos acessos viáveis.
