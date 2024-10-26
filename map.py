@@ -9,7 +9,7 @@ st.title("Progresso de Campo")
 
 st.sidebar.image('adda-principal-azul.svg',None,110)
 
-st.sidebar.title("Projeto Altos dos Ventos - Macaú, RN")
+st.sidebar.title("Projeto Altos dos Ventos - Macau, RN")
 
 
 st.sidebar.info(
