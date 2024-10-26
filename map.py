@@ -9,14 +9,16 @@ st.title("Progresso de Campo")
 
 st.sidebar.image('adda-principal-azul.svg',None,110)
 
-st.sidebar.title("Projeto Altos Ventos - RN")
+st.sidebar.title("Projeto Altos dos Ventos - RN")
 
 
 st.sidebar.info(
    
     """
-    - ADDA Consultoria: <https://addaconsultoria.com.br/>
-    - SR Energia: <http://www.srenergia.com/>
+    Equipe em Campo
+    - Roberto (ADDA)
+    (11)93472-8279
+    - Julio (ADDA)
     """
 )
 
