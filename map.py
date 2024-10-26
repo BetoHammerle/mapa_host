@@ -12,13 +12,13 @@ st.sidebar.image('adda-principal-azul.svg',None,110)
 st.sidebar.title("Projeto Altos Ventos - RN")
 
 
-#st.sidebar.info(
+st.sidebar.info(
    
-   # """
-   # - ADDA Consultoria: <https://addaconsultoria.com.br/>
-   # - SR Energia: <http://www.srenergia.com/>
     """
-#)
+    - ADDA Consultoria: <https://addaconsultoria.com.br/>
+    - SR Energia: <http://www.srenergia.com/>
+    """
+)
 
 st.sidebar.image('legenda.svg',None,150)
 
