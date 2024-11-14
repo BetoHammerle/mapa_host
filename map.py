@@ -5,29 +5,25 @@ import numpy as np
 
 st.set_page_config(layout="wide")
 
-st.title("Progresso de Campo")
+st.title("Field Progress")
 
 st.sidebar.image('adda-principal-azul.svg',None,110)
 
-st.sidebar.title("Projeto Alto dos Ventos - Macau, RN")
+st.sidebar.title("Project Alto dos Ventos - Macau, RN")
 
 
 st.sidebar.info(
    
     """
-    Equipe em Campo
+    Field Team
     - Roberto (ADDA)
-     11 93472-8279
-    - Julio (ADDA)
-     11 99750-0083
      - Caio (ADDA)
-     19 98182-4262
     """
 )
 
 st.sidebar.image('legenda.svg',None,150)
 
-st.sidebar.title("Registros de Campo")
+st.sidebar.title("Field Work Log")
 
 file = open ('cac.txt',"r",-1)
       
