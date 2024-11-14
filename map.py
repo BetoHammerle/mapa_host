@@ -5,7 +5,7 @@ import numpy as np
 
 st.set_page_config(layout="wide")
 
-st.title("Field Progress")
+st.title("Progress Map")
 
 st.sidebar.image('adda-principal-azul.svg',None,110)
 
