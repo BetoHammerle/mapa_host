@@ -7,8 +7,31 @@
    viewBox="0 0 51.448055 26.182697"
    version="1.1"
    id="svg1"
+   sodipodi:docname="legenda.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="5.0450158"
+     inkscape:cx="101.18898"
+     inkscape:cy="49.454751"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
   <defs
      id="defs1" />
   <g
@@ -24,13 +47,13 @@
     <text
        xml:space="preserve"
        style="font-style:italic;font-weight:bold;font-size:6.35px;font-family:Sans;-inkscape-font-specification:'Sans, Bold Italic';fill:#ff2a2a;fill-rule:evenodd;stroke:#4f4d51;stroke-width:0.264999;stroke-opacity:0"
-       x="28.081663"
+       x="27.023329"
        y="74.316109"
        id="text1"><tspan
          id="tspan1"
          style="fill:#ff2a2a;stroke-width:0.265"
-         x="28.081663"
-         y="74.316109">Planejado</tspan></text>
+         x="27.023329"
+         y="74.316109">Planned</tspan></text>
     <ellipse
        style="fill:#ffd42a;fill-rule:evenodd;stroke:#4f4d51;stroke-width:0.264999;stroke-opacity:0"
        id="path1-9"
@@ -41,13 +64,13 @@
     <text
        xml:space="preserve"
        style="font-style:italic;font-weight:bold;font-size:6.35px;font-family:Sans;-inkscape-font-specification:'Sans, Bold Italic';fill:#ffd42a;fill-rule:evenodd;stroke:#4f4d51;stroke-width:0.264999;stroke-opacity:0"
-       x="28.143475"
+       x="26.555973"
        y="84.049828"
        id="text1-7"><tspan
          id="tspan1-1"
          style="fill:#ffd42a;stroke-width:0.265"
-         x="28.143475"
-         y="84.049828">Andamento</tspan></text>
+         x="26.555973"
+         y="84.049828">In Progress</tspan></text>
     <ellipse
        style="fill:#00ff00;fill-rule:evenodd;stroke:#4f4d51;stroke-width:0.264999;stroke-opacity:0"
        id="path1-9-5"
@@ -58,12 +81,12 @@
     <text
        xml:space="preserve"
        style="font-style:italic;font-weight:bold;font-size:6.35px;font-family:Sans;-inkscape-font-specification:'Sans, Bold Italic';fill:#00ff00;fill-rule:evenodd;stroke:#4f4d51;stroke-width:0.264999;stroke-opacity:0"
-       x="28.283978"
+       x="26.696476"
        y="93.70945"
        id="text1-7-6"><tspan
          id="tspan1-1-0"
          style="fill:#00ff00;stroke-width:0.265"
-         x="28.283978"
-         y="93.70945">Finalizado</tspan></text>
+         x="26.696476"
+         y="93.70945">Finished</tspan></text>
   </g>
 </svg>
