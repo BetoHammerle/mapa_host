@@ -33,7 +33,7 @@ st.sidebar.info(
 content)
 
 
-st.sidebar.title("Contato")
+st.sidebar.title("Contact information")
 st.sidebar.info(
     """
     roberto.hammerle@addaconsultoria.com.br
