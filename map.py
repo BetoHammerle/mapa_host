@@ -11,17 +11,6 @@ st.sidebar.image('adda-principal-azul.svg',None,115)
 
 st.sidebar.title("Project Alto dos Ventos - Macau, RN")
 
-
-st.sidebar.info(
-
-    """
-    Field Tema
-    Roberto
-    Caio
-    Solonildo
-    """
-)
-
 st.sidebar.image('legenda.svg',None,150)
 
 st.sidebar.title("Field Work Log")
