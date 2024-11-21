@@ -12,7 +12,7 @@ st.sidebar.image('adda-principal-azul.svg',None,110)
 st.sidebar.title("Project Alto dos Ventos - Macau, RN")
 
 
-st.sidebar.info(
+#st.sidebar.info(
    
     """
     Field Team
