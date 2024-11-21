@@ -7,7 +7,7 @@ st.set_page_config(layout="wide")
 
 st.title("Progress Map")
 
-st.sidebar.image('adda-principal-azul.svg',None,110)
+st.sidebar.image('adda-principal-azul.svg',None,115)
 
 st.sidebar.title("Project Alto dos Ventos - Macau, RN")
 
