@@ -12,12 +12,15 @@ st.sidebar.image('adda-principal-azul.svg',None,115)
 st.sidebar.title("Project Alto dos Ventos - Macau, RN")
 
 
-file = open ('team.txt',"r",-1)
-      
-content = file.read()
-
 st.sidebar.info(
-content)
+
+    """
+    Field Tema
+    Roberto
+    Caio
+    Solonildo
+    """
+)
 
 st.sidebar.image('legenda.svg',None,150)
 
