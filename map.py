@@ -14,10 +14,10 @@ st.sidebar.title("Project Alto dos Ventos - Macau, RN")
 
 file = open ('team.txt',"r",-1)
       
-content1 = file.read()
+content = file.read()
 
 st.sidebar.info(
-content1)
+content)
 
 st.sidebar.image('legenda.svg',None,150)
 
